@@ -141,4 +141,3 @@ SELECT *
 FROM company_year_rank
 WHERE ranking <= 5;
 ```
-```
